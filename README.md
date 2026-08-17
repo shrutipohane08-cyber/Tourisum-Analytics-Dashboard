@@ -8,12 +8,19 @@ bookings, revenue, and tourism performance. It provides a clear view of
 key tourism KPIs, customer behavior, destination trends, and hotel
 performance to support data-driven decision-making.
 
+## Main Page
 <img width="1250" height="856" alt="Screenshot 2026-08-17 182825" src="https://github.com/user-attachments/assets/2653edb8-07c5-4ca6-80ac-e0820bfa54fe" />
 
+
+## Customer Explorer
 <img width="1578" height="858" alt="Screenshot 2026-08-17 182912" src="https://github.com/user-attachments/assets/ae89b556-3862-457d-a70b-f2f08d61d623" />
 
+
+## Destination Explorer
 <img width="1545" height="894" alt="Screenshot 2026-08-17 182949" src="https://github.com/user-attachments/assets/55e98faa-5536-42c6-bf08-e328ec9b922b" />
 
+
+## Hotel Performance
 <img width="1573" height="873" alt="Screenshot 2026-08-17 183154" src="https://github.com/user-attachments/assets/fb1e8b12-c488-468a-b81a-a33a163a2de3" />
 
 
