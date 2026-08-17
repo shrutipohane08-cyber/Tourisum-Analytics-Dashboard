@@ -153,4 +153,4 @@ revenue, and tourism performance.
 
 📁 Power BI Dashboard File
 
-👉 Open / Download Power BI Dashboard
+👉🔗 [Download Tourism Power BI Dashboard](./tourist%20dashboard1.pbix)
